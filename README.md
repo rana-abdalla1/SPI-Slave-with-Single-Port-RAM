@@ -1,6 +1,4 @@
-Here’s a uniquely rewritten version of your README that preserves the technical detail but improves clarity, originality, and tone while making it more reader-friendly:
 
----
 
 # SPI Slave with Integrated Single-Port RAM
 
